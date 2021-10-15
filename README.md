@@ -1,4 +1,4 @@
-Header image
+![Banner](images/banner.png)
 
 ## Andre Wells
 
