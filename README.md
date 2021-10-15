@@ -8,11 +8,11 @@ I've been engineering software since 2009, starting out in the Oil and Gas indus
 
 I am the technical lead; architecting solutions and coordinating development efforts with other team members. I manage four software developers (two of them seniors) and one tester which involves 
 - Planning and estimations
-- Orchestrating work effort and delegation
+- Orchestrating work effort, delegation and assignment
 - Coaching and developing team members
 - Recruitment, training and retention
-- Assisting in engineering and problem solving.
-- Establishing practices and processes for the team to follow.
+- Assisting in engineering and problem solving
+- Establishing and enforcing practices and processes for the team
 
 I have extensive experiance in desktop application development but I'm curretly most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
