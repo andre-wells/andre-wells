@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @andre-wells
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Header image
 
-<!---
-andre-wells/andre-wells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Andre Wells
+
+Engineering software ince 2009, I've worked in manufacturing and legal industries.  I have extensive experiance in desktop application development but I'm curretly most interested in server side architecture using .NET Core and .NET 5.0.
+
+Footer
