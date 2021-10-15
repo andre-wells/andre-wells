@@ -14,7 +14,7 @@ I am the technical lead; architecting solutions and coordinating development eff
 - Assisting in engineering and problem solving.
 - Establishing practices and processes for the team to follow.
 
-I have extensive experiance in desktop application development but I'm curretly most interested in server side development using ![.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
+I have extensive experiance in desktop application development but I'm curretly most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
 ### Skills
 
