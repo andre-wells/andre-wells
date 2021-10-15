@@ -16,6 +16,9 @@ I am the technical lead; architecting solutions and coordinating development eff
 
 I have extensive experiance in desktop application development but I'm curretly most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
+<details>
+  <summary>📃 Resume</summary
+
 ### Skills
 
 - C# in the .NET Framework, .NET Core and .NET 5 frameworks.
@@ -23,6 +26,8 @@ I have extensive experiance in desktop application development but I'm curretly 
 - Unit and Integration Testing and Test Automation
 - TBD
 
+</details>
+    
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beardedwells)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-wells-a5524017/)
 
