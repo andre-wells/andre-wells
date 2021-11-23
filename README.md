@@ -1,8 +1,8 @@
 ![Banner](images/banner.png)
 
-## Andre Wells
+# Andre Wells
 
-### About Me
+## About Me
 
 I've been engineering software since 2009, starting out in the Oil and Gas industry with the bulk of my experiance in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.  
 
@@ -19,12 +19,26 @@ I have extensive experiance in desktop application development but I'm curretly 
 <details>
   <summary>📃 Resume</summary
 
-### Skills
+## Skills
 
 - C# in the .NET Framework, .NET Core and .NET 5 frameworks.
 - Clean Architecure and Test Driven Development
 - Unit and Integration Testing and Test Automation
-- TBD
+
+## Experiance
+    
+    ### Korbicom
+    
+    #### March 2015 to Current
+    Project Leader of ACL
+    
+    #### Nov 2010 to Current
+    Sensior Software Engineer
+    
+    #### MES Africa 
+    
+    Feb 2006 - Oct 2010
+    
 
 </details>
     
