@@ -16,31 +16,42 @@ I am the technical lead; architecting solutions and coordinating development eff
 
 I have extensive experiance in desktop application development but I'm curretly most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
+
+<!--
 <details>
   <summary>📃 Resume</summary
-
-## Skills
+-->
+    
+## Education (TBD)
 
 - C# in the .NET Framework, .NET Core and .NET 5 frameworks.
 - Clean Architecure and Test Driven Development
 - Unit and Integration Testing and Test Automation
 
 ## Experiance
-    
-    ### Korbicom
-    
-    #### March 2015 to Current
-    Project Leader of ACL
-    
-    #### Nov 2010 to Current
-    Sensior Software Engineer
-    
-    #### MES Africa 
-    
-    Feb 2006 - Oct 2010
-    
 
+### Korbicom
+    
+#### March 2015 to Current
+
+Project Leader of ACL
+
+- Transisioned source control from Subversion to Git
+- Converted .NET Winforms application to WPF using the MVVM design pattern.
+
+#### Nov 2010 to Current
+
+Senior Software Engineer
+
+### MES Africa 
+
+#### Feb 2006 - Oct 2010
+
+Developer and Application Specialist
+
+<!--
 </details>
+-->    
     
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beardedwells)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-wells-a5524017/)
