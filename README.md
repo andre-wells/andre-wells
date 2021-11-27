@@ -10,14 +10,14 @@ I am currently work at [Korbicom](https://www.korbicom.com/) as the Project Lead
 
 I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
-
 <!--
 <details>
   <summary>📃 Resume</summary
 -->
 <details>
-  <summary>📃 Resume</summary
-    
+  <summary>📃 Resume</summary>
+
+
 ## Education
 
 - **BTINF**\
