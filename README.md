@@ -4,7 +4,7 @@
 
 ## About Me
 
-I've been engineering software since 2009, starting out in the Oil and Gas industry with the bulk of my experiance in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.  
+I've been engineering software since 2009, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
 I am the technical lead; architecting solutions and coordinating development efforts with other team members. I manage four software developers (two of them seniors) and one tester which involves 
 - Planning and estimations
@@ -14,7 +14,7 @@ I am the technical lead; architecting solutions and coordinating development eff
 - Assisting in engineering and problem solving
 - Establishing and enforcing practices and processes for the team
 
-I have extensive experiance in desktop application development but I'm curretly most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
+I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
 
 <!--
@@ -22,32 +22,51 @@ I have extensive experiance in desktop application development but I'm curretly 
   <summary>📃 Resume</summary
 -->
     
-## Education (TBD)
+## Education
 
-- C# in the .NET Framework, .NET Core and .NET 5 frameworks.
-- Clean Architecure and Test Driven Development
-- Unit and Integration Testing and Test Automation
+- **BTINF**\
+📍 University of South Africa (UNISA)\
+📆 2006 - 2012\
+Research Methodology, Database Systems, Advanced Development Software, Project IV, Software Engineer
 
-## Experiance
+- **NDIT**\
+📍 Nelson Mandela Metropolitan University (2003 - 2005)\
+📆 2003 - 2005\
+Software Development, Information Systems, Technical Programming, Networking (Cisco CCNA), IT Skills
 
-### Korbicom
-    
-#### March 2015 to Current
+## Experience
 
-Project Leader of ACL
+- 🧔 **Project Leader**\
+📍 Korbicom\
+📆 March 2015 - Present
+  - Roles and Responsibilities\
+  fdsfds
 
-- Transisioned source control from Subversion to Git
-- Converted .NET Winforms application to WPF using the MVVM design pattern.
+- 👨‍💻 **Senior Software Engineer**\
+📍 Korbicom\
+📆 Aug 2011 - March 2015
+  - Roles and Responsibilities\
+  fdsfds
 
-#### Nov 2010 to Current
+- 👨‍💻 **Software Engineer**\
+📍 Korbicom\
+📆 Nov 2010 - Aug 2011
+  - **Roles and Responsibilities**\
+  fdsfds
 
-Senior Software Engineer
-
-### MES Africa 
-
-#### Feb 2006 - Oct 2010
-
-Developer and Application Specialist
+- 👨‍💻 **Developer and Applications Specialist**\
+📍 Korbicom\
+📆 Feb 2006 - Oct 2010
+  - **Roles and Responsibilities**\
+  I provided first line and on-call support to a range of manufacturing supporting applications, such as Labworks, SACO (a time and attendance system) and PI from OsiSoft.\
+  I developed and supported bespoke applications, provided integration into various systems (such as SAP).\
+  I was given primary ownership of the SACO system and was responsible for the system's uptime and health.
+  - **Technologies and Skills**\
+  .NET Framework, C#, Microsoft Office, MS SQL Server.
+  - **Team Composition**\
+  I worked in a team of five, answering to three managers.
+  - **Reason for Leaving**\
+  I learned as much as I could from the role and sought new opportunity to focus on a software development role.
 
 <!--
 </details>
