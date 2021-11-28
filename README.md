@@ -17,43 +17,43 @@ I have extensive experience in desktop application development but I'm currently
 <details>
   <summary>📃 Resume</summary>
 
-
 ## Education
 
-- **BTINF**\
+- **Bachelor of Technology: Information Technology (BTINF)**\
 📍 University of South Africa (UNISA)\
 📆 2006 - 2012\
 Research Methodology, Database Systems, Advanced Development Software, Project IV, Software Engineer
 
-- **NDIT**\
+- **National Diploma: Information Technology (NDIT)**\
 📍 Nelson Mandela Metropolitan University (2003 - 2005)\
 📆 2003 - 2005\
 Software Development, Information Systems, Technical Programming, Networking (Cisco CCNA), IT Skills
 
 ## Experience
 
-- 🧔 **Project Lead and Lead Developer**\
+- 🧔 **Project Leader and Lead Developer**\
 📍 Korbicom\
 📆 March 2015 - Present
   - **Roles and Responsibilities**\
-  The previous Project Leader was promoted to Product Owner and I took on the role of both Project Lead and Lead Developer.\
-  In addition to designing and engineering some of the more technically challenging areas of the product, I needed to consider the work breakdown of features and how to execute the work in concert to achieve business and technical goals.\
+  I was promoted to the role of Project Lead acted as the product's Lead Developer.\
+  In addition to designing and engineering some of the more technically challenging areas of the product, I produced the work breakdown of features and determined how to execute effort in concert to achieve business and technical goals.\
   My responsibilities included
-    - Project management.
+    - Project and team management
     - Release planning
     - Feature planning and estimations
     - Orchestrating work effort, delegation and assignment
     - Coaching and developing team members
     - Recruitment, training and retention
-    - Assisting and developers in problem solving
-    - Establishing and enforcing practices and processes for the team
+    - Assisting developers in problem solving
+    - Establishing and enforcing practices and processes
 
   - **Technologies and Skills**\
   C# .NET Core, .NET 5.0, ASP.NET, Entity Framework, RESTful APIs\
+  Microsoft Azure
   .NET Framework, C#, Windows Forms, WPF using the MVVM pattern\
   JSON, XML, HTML, CSS, JavaScript\
   Subversion, Git, Agile Methodologies, Project Management\
-  Interviewing candidates, performance management and employee retention
+  Interviewing candidates, performance management
 
   - **Team Composition**\
   I managed a team of four software developers (two of them seniors) and one dedicated tester.
