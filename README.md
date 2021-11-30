@@ -28,7 +28,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 ## Experience
 
 - 🧔 **Project Leader and Lead Developer**\
-📍 Korbicom\
+📍 Korbicom (Korbitec Inc)\
 📆 March 2015 - Present
   - **Roles and Responsibilities**\
   I was promoted to the role of Project Lead acted as the product's Lead Developer.\
@@ -54,7 +54,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I managed a team of four software developers (two of them seniors) and one dedicated tester.
 
 - 👨‍💻 **Senior Software Engineer**\
-📍 Korbicom\
+📍 Korbicom (Korbitec Inc)\
 📆 Aug 2011 - March 2015
   - **Roles and Responsibilities**\
   After a year in the team (and with my prior work experience), I was assessed and promoted to Senior Software Engineer.  In addition to my prior role, I was given ownership to design and implement new features for the product.\
@@ -68,7 +68,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   Our team of two increased to four, adding a Junior and an Intermediate Developer.
 
 - 👨‍💻 **Software Engineer**\
-📍 Korbicom\
+📍 Korbicom (Korbitec Inc)\
 📆 Nov 2010 - Aug 2011
   - **Roles and Responsibilities**\
   I supported, maintained and implemented new features for a Document Automation system, supporting the legal industry.\
@@ -81,7 +81,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I worked in a small team of two: myself and the Project Leader, answering to a Product Owner. Using the Scrum methodology, our team supported another team of document/template authors.
 
 - 👨‍💻 **Developer and Applications Specialist**\
-📍 Korbicom\
+📍 MES Africa\
 📆 Feb 2006 - Oct 2010
   - **Roles and Responsibilities**\
   I provided first line and on-call support to a range of manufacturing supporting applications, such as Labworks, SACO (a time and attendance system) and PI from OsiSoft.\
