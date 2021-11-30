@@ -4,7 +4,7 @@
 
 ## About Me
 
-I've been engineering software since 2009, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
+I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
 I am currently work at [Korbicom](https://www.korbicom.com/) as the Project Lead and Lead Developer of a [document automation system](https://www.korbitec.ca/), architecting solutions and coordinating development efforts with other team members.
 
