@@ -75,7 +75,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I provided second line support for issues and aided our internal Template Authoring team.\
   I built and maintained integrations into the product, communicating with Legal Practice Management and Accounting systems through a variety of technologies (SQL, SDKs and service based APIs).
   - **Technologies and Skills**\
-  .NET Framework, Windows Forms, SOAP Web Services\
+  .NET Framework, c#, Windows Forms, SOAP Web Services\
   MSSQL, Subversion\
   Agile Development, Scrum
   - **Team Composition**\
