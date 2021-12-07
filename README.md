@@ -76,9 +76,10 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I built and maintained integrations into the product, communicating with Legal Practice Management and Accounting systems through a variety of technologies (SQL, SDKs and service based APIs).
   - **Technologies and Skills**\
   .NET Framework, Windows Forms, SOAP Web Services\
-  MSSQL, Subversion.
+  MSSQL, Subversion\
+  Agile Development, Scrum
   - **Team Composition**\
-  I worked in a small team of two: myself and the Project Leader, answering to a Product Owner. Using the Scrum methodology, our team supported another team of document/template authors.
+  I worked in a small team of two: myself and the Project Leader, answering to a Product Owner.
 
 - 👨‍💻 **Developer and Applications Specialist**\
 📍 MES Africa\
