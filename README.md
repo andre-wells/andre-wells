@@ -6,7 +6,7 @@
 
 I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
-I am currently working at [Korbicom](https://www.korbicom.com/) as the Project Lead and Lead Developer of a [document automation system](https://www.korbitec.ca/), architecting solutions and coordinating development efforts with other team members.
+I am currently working at [Korbicom](https://www.korbicom.com/) as the Project Lead and Lead Developer of a [document automation system](https://www.korbitec.ca/how-it-works/), architecting solutions and coordinating development efforts with other team members.
 
 I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
@@ -71,7 +71,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 📍 Korbicom (Korbitec Inc)\
 📆 Nov 2010 - Aug 2011
   - **Roles and Responsibilities**\
-  I supported, maintained and implemented new features for a Document Automation system, supporting the legal industry.\
+  I supported, maintained and implemented new features for a Document Automation system called ACL, which supported the legal industry.\
   I provided second line support for issues and aided our internal Template Authoring team.\
   I built and maintained integrations into the product, communicating with Legal Practice Management and Accounting systems through a variety of technologies (SQL, SDKs and service based APIs).
   - **Technologies and Skills**\
