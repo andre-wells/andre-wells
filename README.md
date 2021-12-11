@@ -44,7 +44,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 
   - **Technologies and Skills**\
   C# .NET Core, .NET 5.0, ASP.NET, Blazor, Entity Framework, RESTful APIs\
-  Microsoft Azure
+  Microsoft Azure, Test Driven Development,\
   .NET Framework, C#, Windows Forms, WPF, XAML, MVVM\
   JSON, XML, HTML, CSS, JavaScript\
   Git, Subversion, Windows Services, Agile Methodologies\
