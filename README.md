@@ -6,7 +6,7 @@
 
 I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  I started my leadership experiance in 2015 at [Korbicom](https://www.korbicom.com/) where I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
-I am currently working as a Senior Software Engineer at [Trimble](https://landadmin.trimble.com/), maintaining a web application used by mining companies and goverments to manage land and mineral rights obligations.
+I am currently working as a Senior Software Engineer at [Trimble](https://landadmin.trimble.com/), maintaining a workflow-driven suite of applications that is used by major natural resource companies and government agencies around the world.
 
 I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
