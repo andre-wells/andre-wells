@@ -4,9 +4,9 @@
 
 ## About Me
 
-I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  In 2015 I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
+I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  I started my leadership experiance in 2015 at [Korbicom](https://www.korbicom.com/) where I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
-I am currently working at [Korbicom](https://www.korbicom.com/) as the Project Lead and Lead Developer of a [document automation system](https://www.korbitec.ca/how-it-works/), architecting solutions and coordinating development efforts with other team members.
+I am currently working as a Senior Software Engineer at [Trimble](https://landadmin.trimble.com/), maintaining a web application used by mining companies and goverments to manage land and mineral rights obligations.
 
 I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
 
@@ -27,9 +27,26 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 
 ## Experience
 
+- 🧔 **Senior Software Engineer**\
+📍 Trimble (Spatial Dimension)\
+📆 Feb 2022 - Present
+
+  - **Roles and Responsibilities**\
+  Scoping and estimating user stories in an agile work environment.  Producing and implementing functional solutions, maintinaing existing patterns and 
+
+  - **Technologies and Skills**\
+  C# ASP.NET, RESTful APIs\
+  JSON, XML, HTML, CSS, JavaScript\
+  Test Driven Development, xUnit\
+  .NET Framework, C#, Windows Forms,\
+  MSSQL, Agile Methodologies\
+  Git, Subversion, BitBucket\
+  Google Apps, Slack, JIRA, Confluence
+
 - 🧔 **Project Leader and Lead Developer**\
 📍 Korbicom (Korbitec Inc)\
-📆 March 2015 - Present
+📆 March 2015 - Jan 2022
+
   - **Roles and Responsibilities**\
   I was promoted to the role of Project Lead acted as the product's Lead Developer.\
   In addition to designing and engineering some of the more technically challenging areas of the product, I produced the work breakdown of features and determined how to execute effort in concert to achieve business and technical goals.\
@@ -44,14 +61,19 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 
   - **Technologies and Skills**\
   C# .NET Core, .NET 5.0, ASP.NET, Blazor, Entity Framework, RESTful APIs\
-  Microsoft Azure, Test Driven Development,\
-  .NET Framework, C#, Windows Forms, WPF, XAML, MVVM\
   JSON, XML, HTML, CSS, JavaScript\
-  Git, Subversion, Windows Services, Agile Methodologies\
+  Microsoft Azure, Test Driven Development, xUnit\
+  .NET Framework, C#, Windows Forms, WPF, XAML, MVVM\
+  Windows Services, MSSQL, Agile Methodologies\
+  Git, Subversion, GitLab, GitHub\
+  JIRA, Github Projects, Microsoft Teams\
   Project Management, Team Management
 
   - **Team Composition**\
   I managed a team of four software developers (two of them seniors) and one dedicated tester.
+
+  - **Reason for Leaving**\
+  INPUT HERE
 
 - 👨‍💻 **Senior Software Engineer**\
 📍 Korbicom (Korbitec Inc)\
