@@ -76,7 +76,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I managed a team of four software developers (two of them seniors) and one dedicated tester.
 
   - **Reason for Leaving**\
-  After eleven years of working in the same business domain, I wanted a chance to experiance new challenges and ocus on working in cloud-based solutions.
+  After eleven years of working in the same business domain, I wanted a chance to experiance new challenges and focus on working in cloud-based solutions.
 
 - 👨‍💻 **Senior Software Engineer**\
 📍 Korbicom (Korbitec Inc)\
