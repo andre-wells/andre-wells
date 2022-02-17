@@ -32,7 +32,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 📆 Feb 2022 - Present
 
   - **Roles and Responsibilities**\
-  Scoping and estimating user stories in an agile work environment.  Producing and implementing functional solutions, maintinaing existing patterns and 
+  I scoped and estimated user stories in an agile work environment.  I supported, maintained and implemented new features for a mature, workflow-driven suite of applications that is used by major natural resource companies and government agencies around the world.
 
   - **Technologies and Skills**\
   C# ASP.NET, RESTful APIs\
@@ -42,6 +42,9 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   MSSQL, Agile Methodologies\
   Git, Subversion, BitBucket\
   Google Apps, Slack, JIRA, Confluence
+
+  - **Team Composition**\
+  I worked in a time of five: three other Developers, a Tester a Scrum Master and a Technical Lead who had historical product knowledge.
 
 - 🧔 **Project Leader and Lead Developer**\
 📍 Korbicom (Korbitec Inc)\
@@ -73,7 +76,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   I managed a team of four software developers (two of them seniors) and one dedicated tester.
 
   - **Reason for Leaving**\
-  INPUT HERE
+  After eleven years of working in the same business domain, I wanted a chance to experiance new challenges and ocus on working in cloud-based solutions.
 
 - 👨‍💻 **Senior Software Engineer**\
 📍 Korbicom (Korbitec Inc)\
