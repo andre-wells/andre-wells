@@ -65,7 +65,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   - **Achievements**\
   Migrated our WinForms MVP Pattern desktop application to WPF with the MVVM Pattern.\
   Handled the transision from Subversion to Git and implemented the GitFlow workflow in the team.\
-  Architected the product's .NET Core RESTful Api using Clean Architecutre and CQRS.\
+  Architected the product's .NET Core RESTful Api using Clean Architecture and CQRS.\
   Implemented Test Driven Development into the team's workflow.\
   Participated as a member in the company's Employment Equity Committee
 
