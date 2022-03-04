@@ -44,7 +44,7 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
   Google Apps, Slack, JIRA, Confluence
 
   - **Team Composition**\
-  I worked in a time of five: three other Developers, a Tester a Scrum Master and a Technical Lead who had historical product knowledge.
+  I worked in a team of five: three other Developers, a Tester a Scrum Master and a Technical Lead who had historical product knowledge.
 
 - 🧔 **Project Leader and Lead Developer**\
 📍 Korbicom (Korbitec Inc)\
