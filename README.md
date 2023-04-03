@@ -6,9 +6,7 @@
 
 I've been engineering software since 2006, starting out in the Oil and Gas industry with the bulk of my experience in the Legal industry.  I started my leadership experience in 2015 at [Korbicom](https://www.korbicom.com/) where I became the project leader of a product that generates and automates court documents, manages tasks and limitation dates and integrates into various legal practice management suites.
 
-I am currently working as a Senior Software Engineer at [Trimble](https://landadmin.trimble.com/), maintaining a workflow-driven suite of applications that is used by major natural resource companies and government agencies around the world.
-
-I have extensive experience in desktop application development but I'm currently most interested in server side development using [.NET Core and .NET 5.0](https://dotnet.microsoft.com/).
+I am currently working as a Senior Developer  at [Business Science Corporation](https://bscglobal.com/), contributing to projects in the Fintech projects using a variety of technologies, primarily .NET and React.
 
 <details>
   <summary>📃 Resume</summary>
@@ -27,9 +25,24 @@ Software Development, Information Systems, Technical Programming, Networking (Ci
 
 ## Experience
 
+- 🧔 **Senior Developer**\
+📍 BSC\
+📆 April 2022 - Present
+
+  - **Roles and Responsibilities**\
+  I assisted technical leads in overseeing and guiding the development process of products in the Fintech industry. As a responsible team member, I ensured the delivery of high-quality solutions that met the needs of clients and their end-users. I leveraged my deep experience in product development to provide guidance to the development team and fostered a culture of collaboration and effective project management.
+
+  - **Technologies and Skills**\
+  C# ASP.NET, RESTful APIs\
+  React Native, ReactJS, Typescript, Tailwind CSS\
+  Azure DevOps 
+
+  - **Team Composition**\
+  I have worked in a variety of teams, ranging from five to twenty members, consisting of both permanent employees and contractors. During these projects, I have worked on full-stack, backend, and mobile development.
+
 - 🧔 **Senior Software Engineer**\
 📍 Trimble (Spatial Dimension)\
-📆 Feb 2022 - Present
+📆 Feb 2022 - March 2022
 
   - **Roles and Responsibilities**\
   I scoped and estimated user stories in an agile work environment.  I supported, maintained and implemented new features for a mature, workflow-driven suite of applications that is used by major natural resource companies and government agencies around the world.
